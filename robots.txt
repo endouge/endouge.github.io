@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://endouge.github.io/a/sitemap.html
+Sitemap: https://endouge.github.io/b/sitemap.html
+Sitemap: https://endouge.github.io/c/sitemap.html
+Sitemap: https://endouge.github.io/d/sitemap.html
